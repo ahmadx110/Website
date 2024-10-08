@@ -1,0 +1,43 @@
+body{
+background-color: #4a12b1;
+}
+/* this is hesder section  */
+.header{
+margin-top: -18px;
+margin-left: -10px;
+margin-right: -8px;
+height: 60px;
+background-color: black;
+
+}
+ul{
+list-style-type: none;
+
+}
+
+li:hover{
+    background-color:#4a12b1;
+   
+}
+li{
+    color: aliceblue;
+    font-size: large;
+    padding: 20px;
+    padding-left: 40px;
+    display: block;
+    float: right;
+}
+
+/* this is section two of one  */
+.one{
+    background-color: black;
+    height: 550px;
+    margin-top: 10px;
+    background-image: url("pic1.jpg");
+}
+.image1{
+    height: 550px;
+    width: 900px;
+    margin-left: 210px;
+    opacity: 0.5;
+}
